@@ -1,3 +1,16 @@
+body {
+    background-color: black;
+}
+
 .home {
     text-align: center;
+    padding-top: 250px;
+}
+
+h1 {
+    color: white
+}
+
+h3 {
+    color: white;
 }
